@@ -1,0 +1,4 @@
+matplotlib
+scipy
+ordered-set
+numpy
